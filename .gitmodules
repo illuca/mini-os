@@ -1,0 +1,12 @@
+[submodule "asst1-src"]
+	path = asst1-src
+	url = git@github.com:illuca/OS-asst1-src.git
+[submodule "asst2-src"]
+	path = asst2-src
+	url = git@github.com:illuca/OS-asst2-src.git
+[submodule "asst3-src"]
+	path = asst3-src
+	url = git@github.com:illuca/OS-asst3-src.git
+[submodule "warmup-src"]
+	path = warmup-src
+	url = git@github.com:illuca/OS-warmup-src.git
